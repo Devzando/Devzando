@@ -5,8 +5,8 @@
 <br>
 
 <div align="center" style="diplay:flex">
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=Devzando&show_icons=true&theme=dracula" />
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devzando&theme=dracula&layout=compact" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Devzando&show_icons=true&theme=dracula" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devzando&theme=dracula&layout=compact" />
 </div><br>
 
 ### Minhas Redes
