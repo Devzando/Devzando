@@ -1,16 +1,22 @@
-### Hi there 👋
+<h2 align="center" style="color: red"> Olá! Eu sou o Devzando! Programador Full Stack e criador de conteúdo 🎩 👋 </h2>
+<div align="center">
+  <img alt="Welcome image" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwAEWerjnu6xo0jpN1Q1-_Ao" width="100%" height="400"/>
+</div>  
+<br>
 
-<!--
-**Devzando/Devzando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" style="diplay:flex">
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=Devzando&show_icons=true&theme=dracula" />
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devzando&theme=dracula&card_width=300px&layout=compact" />
+</div><br>
 
-Here are some ideas to get you started:
+### Minhas Redes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lira-9a3b07207)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.zando/)
+
+<div>
+  ![Snake animation](https://github.com/Devzando/Devzando/blob/output/github-contribution-grid-snake.svg)
+</div> 
+
+
+
