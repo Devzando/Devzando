@@ -1,13 +1,18 @@
-<h2 align="center" style="color: red"> Olá! Eu sou o Devzando! Programador Full Stack e criador de conteúdo 🎩 👋 </h2>
+<h2 align="center"> Olá! Eu sou o Devzando! Programador Full Stack e criador de conteúdo 🎩 👋 </h2>
 <div align="center">
   <img alt="Welcome image" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwAEWerjnu6xo0jpN1Q1-_Ao" width="100%" height="400"/>
 </div>  
 <br>
 
-<div align="center" style="diplay:flex">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Devzando&show_icons=true&theme=dracula" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devzando&theme=dracula&layout=compact" />
+<div align="left">
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=Devzando&show_icons=true&theme=dracula" />
 </div><br>
+
+### Linguagens que mais utilizo
+
+<div align="left">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devzando&theme=dracula&layout=compact&card_width=415" />
+</div>
 
 ### Minhas Redes
 
