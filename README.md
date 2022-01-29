@@ -6,7 +6,7 @@
 
 <div align="center" style="diplay:flex">
   <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=Devzando&show_icons=true&theme=dracula" />
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devzando&theme=dracula&card_width=300px&layout=compact" />
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devzando&theme=dracula&layout=compact" />
 </div><br>
 
 ### Minhas Redes
@@ -14,9 +14,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lira-9a3b07207)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.zando/)
 
-<div>
-  ![Snake animation](https://github.com/Devzando/Devzando/blob/output/github-contribution-grid-snake.svg)
-</div> 
+![Snake animation](https://github.com/Devzando/Devzando/blob/output/github-contribution-grid-snake.svg) 
 
 
 
